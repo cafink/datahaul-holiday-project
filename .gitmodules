@@ -1,0 +1,6 @@
+[submodule "holiday-source"]
+	path = holiday-source
+	url = https://github.com/cafink/holiday-source
+[submodule "holidays-react"]
+	path = holidays-react
+	url = https://github.com/cafink/holidays-react
